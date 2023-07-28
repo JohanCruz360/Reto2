@@ -466,7 +466,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1841109127762668794, guid: b4ebd4bb61e1b7d4e91a77f4060da491, type: 3}
       propertyPath: m_Name
-      value: grunt (1)
+      value: Villano (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1841109127762668796, guid: b4ebd4bb61e1b7d4e91a77f4060da491, type: 3}
       propertyPath: John
@@ -6129,7 +6129,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1841109127762668794, guid: b4ebd4bb61e1b7d4e91a77f4060da491, type: 3}
       propertyPath: m_Name
-      value: grunt (3)
+      value: villano (3)
       objectReference: {fileID: 0}
     - target: {fileID: 1841109127762668796, guid: b4ebd4bb61e1b7d4e91a77f4060da491, type: 3}
       propertyPath: John
@@ -6565,7 +6565,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1841109127762668794, guid: b4ebd4bb61e1b7d4e91a77f4060da491, type: 3}
       propertyPath: m_Name
-      value: grunt (2)
+      value: Villano (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1841109127762668796, guid: b4ebd4bb61e1b7d4e91a77f4060da491, type: 3}
       propertyPath: John
@@ -7749,7 +7749,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1841109127762668794, guid: b4ebd4bb61e1b7d4e91a77f4060da491, type: 3}
       propertyPath: m_Name
-      value: grunt
+      value: villano
       objectReference: {fileID: 0}
     - target: {fileID: 1841109127762668796, guid: b4ebd4bb61e1b7d4e91a77f4060da491, type: 3}
       propertyPath: John
